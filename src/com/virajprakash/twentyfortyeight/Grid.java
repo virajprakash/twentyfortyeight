@@ -71,7 +71,7 @@ public class Grid extends JPanel {
             Font bigFont = new Font("Arial", Font.BOLD, cellWidth / 2);
             g.setColor(Color.BLACK);
             g.setFont(bigFont);
-            g.drawString("Game over!", panelWidth / 4, panelHeight / 2);
+            g.drawString("Game.java over!", panelWidth / 4, panelHeight / 2);
         }
 
     }
