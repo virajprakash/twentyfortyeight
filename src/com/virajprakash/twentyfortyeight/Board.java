@@ -1,3 +1,5 @@
+package com.virajprakash.twentyfortyeight;
+
 class Board {
     int[][] board;
     int boardSize = 4;

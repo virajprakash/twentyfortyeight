@@ -1,3 +1,5 @@
+package com.virajprakash.twentyfortyeight;
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.HashMap;
